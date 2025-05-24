@@ -1,0 +1,68 @@
+{
+    "unit_1": {
+        "apple": {
+            "meaning": "תפוח",
+            "repeat_count": 1
+        },
+        "banana": {
+            "meaning": "בננה",
+            "repeat_count": 2
+        },
+        "grape": {
+            "meaning": "ענב",
+            "repeat_count": 2
+        },
+        "orange": {
+            "meaning": "תפוז",
+            "repeat_count": 2
+        },
+        "pear": {
+            "meaning": "אגס",
+            "repeat_count": 2
+        }
+    },
+    "unit_2": {
+        "book": {
+            "meaning": "ספר",
+            "repeat_count": 0
+        },
+        "pen": {
+            "meaning": "עט",
+            "repeat_count": 0
+        },
+        "pencil": {
+            "meaning": "עיפרון",
+            "repeat_count": 0
+        },
+        "school": {
+            "meaning": "בית ספר",
+            "repeat_count": 0
+        },
+        "teacher": {
+            "meaning": "מורה",
+            "repeat_count": 0
+        }
+    },
+    "unit_3": {
+        "sun": {
+            "meaning": "שמש",
+            "repeat_count": 0
+        },
+        "moon": {
+            "meaning": "ירח",
+            "repeat_count": 0
+        },
+        "star": {
+            "meaning": "כוכב",
+            "repeat_count": 0
+        },
+        "cloud": {
+            "meaning": "ענן",
+            "repeat_count": 0
+        },
+        "rain": {
+            "meaning": "גשם",
+            "repeat_count": 0
+        }
+    }
+}
